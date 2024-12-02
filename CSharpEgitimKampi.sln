@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "02_Variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_MakingDecision\03_MakingDecision.csproj", "{6967ECE0-DAD2-4B19-BEF0-DFFA5B333DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loopss", "04_Loopss\04_Loopss.csproj", "{7D178A57-CA93-44AF-B389-44071F6460A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loopss\04_Loops.csproj", "{7D178A57-CA93-44AF-B389-44071F6460A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWithStars", "05_LoopsWithStars\05_LoopsWithStars.csproj", "{2FA5254E-D3A9-46F4-8518-13A98409E713}"
 EndProject
