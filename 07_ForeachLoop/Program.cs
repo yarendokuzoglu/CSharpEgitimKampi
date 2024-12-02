@@ -96,11 +96,11 @@ namespace _07_ForeachLoop
 
 
             ////Öğrenci isimlerini ve not ortalamalarını saklayacak diziler
-            //string[] studentNames= new string[studenCount];
-            //double[] studentExamAvg= new double[studenCount];
+            //string[] studentNames = new string[studenCount];
+            //double[] studentExamAvg = new double[studenCount];
 
 
-            //for(int i = 0; i < studenCount; i++)
+            //for (int i = 0; i < studenCount; i++)
             //{
             //    Console.Write($"{i + 1}. öğrencinin ismini giriniz: ");
             //    studentNames[i] = Console.ReadLine();
@@ -110,7 +110,7 @@ namespace _07_ForeachLoop
 
             //    //Her öğrenci için 3 sınav notu girişi
 
-            //    for(int j=0; j < 3; j++)
+            //    for (int j = 0; j < 3; j++)
             //    {
             //        Console.WriteLine($"{studentNames[i]} isimli öğrencinin {j + 1}. sınav notunu giriniz: ");
             //        double value = double.Parse(Console.ReadLine());
@@ -121,7 +121,7 @@ namespace _07_ForeachLoop
             //}
 
             ////sınav ortalamaları
-            //for( int i = 0; i < studenCount; i++) 
+            //for (int i = 0; i < studenCount; i++)
             //{
             //    Console.WriteLine("---------------------------------");
 
